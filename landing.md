@@ -80,7 +80,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Competitions</h2>
 		</header>
-		<p>Our group participates in multiple competitions. The competitions provide different scenarios for drones to operate in. These require us to implement a wide array of functionalities in our aircraft and ground control system software. </p>
+		<p>Our group participates in multiple competitions. The competitions provide different scenarios for drones to operate in. These require us to implement a wide array of functionalities in our aircraft and ground control system software. We have implemented AI assisted object detection to allow subject tracking and following. We combine image analysis an sensor data to estimate object distances. We have designed mechanical subsytems that allow our drones to pick up and drop off items from the ground.  </p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
