@@ -33,7 +33,7 @@ nav-menu: true
 				</header>
 				<p>Our student group was founded in the summer of 2018 by a group of engineering students eager to try something new and to make a name for the University of Manitoba in the field of aerospace and unmanned drones. 
 
-<br><br>With our passion for creativity, design and exploring the boundaries of technological capabilities we are not afraid of pushing ourselves to design and compete with new and exciting technologies like drones. </p>
+				<br><br>With our passion for creativity, design and exploring the boundaries of technological capabilities we are not afraid of pushing ourselves to design and compete with new and exciting technologies like drones. </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -80,7 +80,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Competitions</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Our group participates in multiple competitions. The competitions provide different scenarios for drones to operate in. These require us to implement a wide array of functionalities in our aircraft and ground control system software. </p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
