@@ -65,7 +65,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Sponsorships</h3>
 				</header>
-				<p>Sponsorships help us acquire high quality materials and components for our drones. They allow us to rapidly prototype new ideas and innovate. Better sensors and subsystems give us a competitive advantage over other teams in competitions we participate in.   </p>
+				<p>Sponsorships help us acquire high quality materials and components for our drones. They allow us to rapidly prototype new ideas and innovate. Better sensors and subsystems give us a competitive advantage over other teams in competitions we participate in. Financial sponshorships allow us to cover competiton costs and drone pilot licensing. Hardware sponsorhsips and donations allow us to incoroporate your components into our aircraft design. Sponsor logos are displayed prominently on our aircraft during competitions.  </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
