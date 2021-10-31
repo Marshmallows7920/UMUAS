@@ -49,7 +49,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Our Drones</h3>
 				</header>
-				<p>We strive to design the best possible drone while learning and developing as student engineers. Our drones are able to deliver a payload, conduct aerial reconnaissance missions and maneuver around obstacles. </p>
+				<p>We strive to incorporate the newest technological paradigms in our drone designs while learning and developing as student engineers. Our drones are able to deliver a payload, conduct aerial reconnaissance missions and maneuver around obstacles. We use AI assisted object detection to allow subject tracking and following. We combine image analysis and sensor data to estimate object distances. We have designed mechanical subsytems that allow our drones to pick up and drop off items from the ground.  </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -80,7 +80,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Competitions</h2>
 		</header>
-		<p>Our group participates in multiple competitions. The competitions provide different scenarios for drones to operate in. These require us to implement a wide array of functionalities in our aircraft and ground control system software. We have implemented AI assisted object detection to allow subject tracking and following. We combine image analysis an sensor data to estimate object distances. We have designed mechanical subsytems that allow our drones to pick up and drop off items from the ground.  </p>
+		<p>Our group participates in multiple competitions. The competitions provide different scenarios for drones to operate in. These require us to implement a wide array of functionalities in our aircraft and ground control system software. Competitions expose our drones to different indoor and outdor operating environments which provide different challenges for autonomous navigation and adaptive behavior to changing environmental conditions</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
