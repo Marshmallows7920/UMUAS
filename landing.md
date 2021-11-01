@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2></h2>
 		</header>
 		<p>We are a student group dedicated to the development of autonomous unmanned aerial vehicles. We design aircraft that can perform tasks, such as aerial reconnaissance, payload delivery, area surveillance, and more.
 		<br><br> We compete in national and international competitions that test the capabilities of our aircraft in different scenarios.</p>
@@ -33,7 +33,8 @@ nav-menu: true
 				</header>
 				<p>Our student group was founded in the summer of 2018 by a group of engineering students eager to try something new and to make a name for the University of Manitoba in the field of aerospace and unmanned drones. 
 
-				<br><br>Guided by our creativity and our passion for design, we explore the boundaries of our technological capabilities. We routinely attempt to incorporate the newest efficient implementations of technology specific to the task at hand. </p>
+				<br><br>Guided by our creativity and our passion for design, we explore the boundaries of our technological capabilities. We routinely attempt to incorporate the newest efficient implementations of technology specific to the task at hand. 
+				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
