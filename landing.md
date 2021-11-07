@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2></h2>
 		</header>
 		<p>We are a student group dedicated to the development of autonomous unmanned aerial vehicles. We design aircraft that can perform tasks, such as aerial reconnaissance, payload delivery, area surveillance, and more.
 		<br><br> We compete in national and international competitions that test the capabilities of our aircraft in different scenarios.</p>
@@ -33,7 +33,8 @@ nav-menu: true
 				</header>
 				<p>Our student group was founded in the summer of 2018 by a group of engineering students eager to try something new and to make a name for the University of Manitoba in the field of aerospace and unmanned drones. 
 
-<br><br>With our passion for creativity, design and exploring the boundaries of technological capabilities we are not afraid of pushing ourselves to design and compete with new and exciting technologies like drones. </p>
+				<br><br>Guided by our creativity and our passion for design, we explore the boundaries of our technological capabilities. We routinely attempt to incorporate the newest efficient implementations of technology specific to the task at hand. 
+				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -49,7 +50,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Our Drones</h3>
 				</header>
-				<p>We strive to design the best possible drone while learning and developing as student engineers. Our drones are able to deliver a payload, conduct aerial reconnaissance missions and maneuver around obstacles. </p>
+				<p>We strive to incorporate the newest technological paradigms in our drone designs while learning and developing as student engineers. Our drones are able to deliver a payload, conduct aerial reconnaissance missions and maneuver around obstacles. We use AI assisted object detection to allow subject tracking and following. We combine image analysis and sensor data to estimate object distances. We have designed mechanical subsytems that allow our drones to pick up and drop off items from the ground.  </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -65,7 +66,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Sponsorships</h3>
 				</header>
-				<p>Sponsorships help us acquire high quality materials and components for our drones. They allow us to rapidly prototype new ideas and innovate. Better sensors and subsystems give us a competitive advantage over other teams in competitions we participate in.   </p>
+				<p>Sponsorships help us acquire high quality materials and components for our drones. They allow us to rapidly prototype new ideas and innovate. Better sensors and subsystems give us a competitive advantage over other teams in competitions we participate in. Financial sponshorships allow us to cover competiton costs and drone pilot licensing. Hardware sponsorhsips and donations allow us to incoroporate your components into our aircraft design. Sponsor logos are displayed prominently on our aircraft during competitions.  </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -80,7 +81,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Competitions</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Our group participates in multiple competitions. The competitions provide different scenarios for drones to operate in. These require us to implement a wide array of functionalities in our aircraft and ground control system software. Competitions expose our drones to different indoor and outdor operating environments which provide different challenges for autonomous navigation and adaptive behavior to changing environmental conditions</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
