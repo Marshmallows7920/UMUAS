@@ -10,19 +10,21 @@
 		@include vendor('align-items', 'center');
 		@include vendor('background-image', 'url("../images/UMUASLogo2.png")');
 		@include vendor('display', 'flex');
-		@include padding(4em, 0, (2em, 0, 0, 0));
+		@include padding(0em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
 		background-position: top;
 		background-repeat: no-repeat;
-		background-size: auto;
+		background-size: 100% 80%;
 		border-bottom: 0 !important;
 		cursor: default;
 		height: 60vh;
-		margin-bottom: -3.25em;
-		max-height: 22em;
+		margin-bottom: 1em;
+		margin-left: 1em;
+		margin-right: 1em;
+		max-height: 30em;
 		min-height: 10em;
 		position: relative;
-		top: 4.25em;
+		//top: 4.25em;
 		padding-top: 20em;
 
 		&:after {
@@ -126,11 +128,13 @@
 		}
 
 		@include breakpoint(large) {
-			background-attachment: scroll;
+			//background-attachment: scroll;
+			background-size: 100% 60%;
+			margin-bottom: -2em;
 		}
 
 		@include breakpoint(small) {
-			@include padding(3em, 0, (2em, 0, 0, 0));
+			@include padding(0em, 0, (2em, 0, 0, 0));
 			height: auto;
 			margin-bottom: -2.75em;
 			max-height: none;
@@ -160,7 +164,7 @@
 		}
 
 		@include breakpoint(xsmall) {
-			@include padding(4em, 0, (2em, 0, 0, 0));
+			@include padding(0em, 0, (2em, 0, 0, 0));
 
 			> .inner {
 				.content {

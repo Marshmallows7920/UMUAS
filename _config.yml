@@ -1,6 +1,6 @@
 # site settings
-title:
-subtitle:
+title: UMUAS
+subtitle: home
 email: umuas.captain@gmail.com
 description: University of Manitoba Unmanned Aerial Systems team
 baseurl: "/" # the subpath of your site, e.g. /blog
