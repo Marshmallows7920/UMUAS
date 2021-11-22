@@ -7,24 +7,22 @@ nav-menu: true
 ---
 
 <!-- One -->
-<section id="one">
+<section id="one" class="spotlights">
+    <section>
+    <a href="#" class="image">
+            <img src="{% link assets/images/ci1.png %}" alt="" data-position=""/>
+    </a>
 	<div class="inner">
 		<header class="major">
 			<h2>Introduction</h2>
 		</header>
 		<p>We are a three-year old student group with the goal of competing in the Unmanned Systems Canada(USC) 2022 Student Unmanned Aircraft Systems(UAS) Competition.</p>
 	</div>
-    <div style="margin: auto; width: 90%;text-align: center;">
-        <span style="padding: 1em;">
-            <img src="{% link assets/images/ci1.png %}" alt="" data-position="center center" />
-        </span>
-    </div>
 </section>
 
 
 
 <section id="four" class="spotlights">
-    <section>
 	<div style="margin: auto; width: 90%; padding: 3em" class="inner">
 		<header class="major">
 			<h3>Team Structure</h3>

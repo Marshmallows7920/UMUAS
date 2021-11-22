@@ -23,13 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="team.html" class="image">
-			<div style="padding: 1em; margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);">
-				<img src="{% link assets/images/workspace.jpg %}" alt="" data-position="center center" />
-			</div>
+			<img src="{% link assets/images/workspace.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

@@ -23,12 +23,10 @@
 			<h2>{{ page.title }}</h2>
 		</header>
 		{% if page.image %}
-		
-		<span style="margin: auto;" class="image main"><img style="display: block;
-			margin-left: auto;
-			margin-right: auto;
-			width: 70%;" src="{{ page.image }}" alt="" /></span>
-		
+		<section>
+		<div class="image main">
+			<img src="{{ page.image }}" alt="" />
+		</div>
 		{% endif %}
 		{{ content }}
 	</div>

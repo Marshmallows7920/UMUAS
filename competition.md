@@ -10,13 +10,7 @@ nav-menu: true
 <section id="one" class="spotlights">
 	<section>
 		<a href="#" class="image">
-            <div style="padding: 1em; margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);">
-                <img style="weight:100%; height:100%" src="{% link assets/images/competition.jpg %}" alt="" data-position=""/>
-            </div>
+            <img src="{% link assets/images/competition.jpg %}" alt="" data-position=""/>
 		</a>
 		<div class="content">
 			<div class="inner">

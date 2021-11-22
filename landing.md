@@ -32,7 +32,6 @@ nav-menu: true
 					<h3>Our Team</h3>
 				</header>
 				<p>Our student group was founded in the summer of 2018 by a group of engineering students eager to try something new and to make a name for the University of Manitoba in the field of aerospace and unmanned drones. 
-
 				<br><br>Guided by our creativity and our passion for design, we explore the boundaries of our technological capabilities. We routinely attempt to incorporate the newest efficient implementations of technology specific to the task at hand. 
 				</p>
 				<ul class="actions">
