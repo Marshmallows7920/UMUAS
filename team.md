@@ -13,17 +13,15 @@ nav-menu: true
             <img src="{% link assets/images/ci1.png %}" alt="" data-position=""/>
     </a>
 	<div class="inner">
-		<header class="major">
-			<h2>Introduction</h2>
-		</header>
-		<p>We are a three-year old student group with the goal of competing in the Unmanned Systems Canada(USC) 2022 Student Unmanned Aircraft Systems(UAS) Competition.</p>
+		<h2>Introduction</h2>
+		<p style="padding: 10px;">We are a three-year old student group with the goal of competing in the Unmanned Systems Canada(USC) 2022 Student Unmanned Aircraft Systems(UAS) Competition.</p>
 	</div>
 </section>
 
 
 
 <section id="four" class="spotlights">
-	<div style="margin: auto; width: 90%; padding: 3em" class="inner">
+	<div style="margin: auto; width: 90%; padding: 15px" class="inner">
 		<header class="major">
 			<h3>Team Structure</h3>
 		</header>

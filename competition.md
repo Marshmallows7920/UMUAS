@@ -38,7 +38,7 @@ nav-menu: true
 
 
 <section id="two">
-	<div style="margin: auto; width: 90%; padding: 3em" class="inner">
+	<div style="margin: auto; width: 90%; padding: 15px" class="inner">
 		<header class="major">
 			<h3>Challenges & Projects</h3>
 		</header>
