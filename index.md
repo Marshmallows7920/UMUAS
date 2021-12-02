@@ -69,19 +69,47 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
-
-<!-- Three -->
-<section id="sponsorship">
-	<div class="inner">
-		<header class="major">
-			<h2>Sponsorship</h2>
-		</header>
-		<p>Sponsorships help us acquire high quality materials and components for our drones. They allow us to rapidly prototype new ideas and innovate. Better sensors and subsystems give us a competitive advantage over other teams in competitions we participate in.</p>
-		<ul class="actions">
-			<li><a href="sponsorships.html" class="button next">Learn More</a></li>
-		</ul>
-	</div>
+	<section id="sponsorship" style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
+		<div class="logo-photos">
+			<h2 style="text-align:center;">Platinum Sponsors</h2>
+			<div style="border-radius: 25px; padding:20px; background-color: #f0ffff; display: flex; flex-direction: column; align-items: center;">
+				{% for image in site.static_files %}
+					{% if image.path contains 'images/Platinum' %}
+						<img style="padding-top: 10px; padding-bottom: 10px;width: 90%;" src="{{ image.path }}" alt="image"/>
+					{% endif %}
+				{% endfor %}
+			</div>
+		</div>
+		<div class="sponsor-text">
+			<header class="major">
+				<h3>Sponsorship</h3>
+			</header>
+			<p>
+			Sponsorship is essential to the success of this team, and in recognition of your contribution UMUAS will provide exposure to your organization at the competition, the University of Manitoba, the team’s website, and public events. With your generous support, students will be exposed to real -life engineering challenges  that will strengthen their technical skills and develop them into exceptional future engineers. </p>		
+			<ul class="actions">
+				<li><a href="sponsorships.html" class="button next">Learn More</a></li>
+			</ul>
+		</div>
+	</section>
 </section>
 
 </div>
+
+<style>
+    .logo-photos{
+        flex-basis:35%; padding-top: 20px; padding-bottom: 20px;
+    }
+
+    .sponsor-text{
+        flex-basis:35%;
+    }
+
+    @media only screen and (max-width: 736px) {
+        .logo-photos{
+        	flex-basis:90%; padding-top: 5px; padding-bottom: 5px;
+    	}
+		.sponsor-text{
+        	flex-basis:90%;
+    	}
+    }
+</style>

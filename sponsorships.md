@@ -9,7 +9,8 @@ nav-menu: true
 
 <style>
     .logo-container{
-        border-radius: 25px; padding-top: 10px; padding-bottom: 10px; background-color: #f0ffff; align-items: center; display: flex; flex-wrap: wrap; justify-content: space-around;
+        border-radius: 25px; padding-top: 10px; padding-bottom: 10px; background-color: #f0ffff; 
+        display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;
     }
 
     .sponsor-logo{
@@ -34,7 +35,7 @@ nav-menu: true
         {% for image in site.static_files %}
             {% if image.path contains 'images/SponsorLogos' %}
                 <div class="sponsor-logo">
-                    <img style="margin-left: auto;margin-right: auto; width: 90%;" src="{{ image.path }}" alt="image"/>
+                    <img style="display:block; margin-left: auto;margin-right: auto; width: 90%;" src="{{ image.path }}" alt="image"/>
                 </div>
             {% endif %}
         {% endfor %}
